@@ -1,6 +1,8 @@
 ---
 icon: tree-deciduous
 description: Gabriel Caja Egido
+cover: ../.gitbook/assets/image.png
+coverY: 0
 ---
 
 # Definiciones útiles
